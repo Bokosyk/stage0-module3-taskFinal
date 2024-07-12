@@ -1,7 +1,7 @@
 package lang.print.gaps.finalModuleTask;
 
 public class TemperatureConverter {
-    public int toFahrenheit(int temperatureCelsius){
+    public double toFahrenheit(int temperatureCelsius){
         int fahrenheit = (temperatureCelsius * 9/5) + 32;
         return fahrenheit;
     }

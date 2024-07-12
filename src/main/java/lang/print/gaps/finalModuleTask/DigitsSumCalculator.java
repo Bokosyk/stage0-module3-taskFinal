@@ -14,6 +14,6 @@ public class DigitsSumCalculator {
 
     public static void main(String[] args) {
         DigitsSumCalculator sum = new DigitsSumCalculator();
-        System.out.println(sum.calculateSum(674));
+        System.out.println(sum.calculateSum(4567));
     }
 }
